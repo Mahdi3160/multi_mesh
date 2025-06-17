@@ -14,7 +14,7 @@ bash <(curl -Ls --ipv4 https://github.com/Musixal/easy-mesh/raw/main/easymesh.sh
 
 v2
 ```
-bash <(curl -Ls --ipv4 https://github.com/Musixal/easy-mesh/raw/main/easymesh_v2.sh)
+bash <(curl -Ls --ipv4 https://github.com/Mahdi3160/multi_mesh/blob/main/easymesh_v2.sh)
 ```
 ## My Telegram channel
 Check the channel below for more information:
